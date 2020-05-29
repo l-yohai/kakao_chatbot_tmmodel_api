@@ -1,6 +1,7 @@
 # kakao chatbot with teachable machine model (keras)
 
-[##_Image|kage@bN4Ril/btqEw2LmuXr/4ZGsRwgoKOOkLJsjJoaK81/img.png|alignCenter|data-origin-width="0" data-origin-height="0" data-ke-mobilestyle="widthContent"|||_##]
+![image](https://user-images.githubusercontent.com/49181231/83302229-e9574b00-a235-11ea-958d-054737078b3d.png)
+
 
 ## Usage
 
